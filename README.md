@@ -2,10 +2,11 @@
 
 ```
 % This Matlab function provides a way to find 
-% (1) unique rows, when rows have switched elements ("u"), 
+% (1) unique 2-element rows, when rows have switched elements ("u"), 
 % (2) rows with switched elements ("s"), and 
 % (3) indices of rows with switched elements ("is").
 
+% Note: this function is designed ONLY for 2-column matrices as input.
 
 % Example of usage:
 clear all
