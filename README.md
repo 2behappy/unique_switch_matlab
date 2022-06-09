@@ -1,12 +1,13 @@
 # unique_switch_matlab
 
+```
 % This Matlab function provides a way to find 
 % (1) unique rows, when rows have switched elements ("u"), 
 % (2) rows with switched elements ("s"), and 
 % (3) indices of rows with switched elements ("is").
 
-% Example of usage:
 
+% Example of usage:
 clear all
 clc
 
@@ -62,3 +63,4 @@ ans =
      7
      8
     10
+```
